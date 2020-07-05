@@ -72,6 +72,7 @@ public class SpikeServiceImpl implements SpikeService {
                     } finally {
                         lock.writeLock().unlock();
                     }
+                    return RestResult.ok().msg("该商品已售空");
                 }
                 if (inventory < state) {
                     return RestResult.ok().msg("商品库存不足，当前库存数量：" + inventory);
