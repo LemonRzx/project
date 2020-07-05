@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="spring-boot-service-impl-spike" />
+        <module name="spring-boot-service-api-goods" />
+        <module name="spring-boot-service-api-mail" />
+        <module name="spring-boot-service-impl-goods" />
+        <module name="spring-boot-goods-pojo" />
+        <module name="spring-boot-service-impl-pay" />
+        <module name="spring-boot-basics-springcloud-zuul" />
+        <module name="spring-boot-service-impl-mail" />
+        <module name="spring-boot-common-core" />
+        <module name="spring-boot-service-api-spike" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="spring-boot-basics-mail" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="spring-boot-basics-springcloud-zuul" options="-parameters" />
+      <module name="spring-boot-common-core" options="-parameters" />
+      <module name="spring-boot-goods-pojo" options="-parameters" />
+      <module name="spring-boot-service-api-goods" options="-parameters" />
+      <module name="spring-boot-service-api-mail" options="-parameters" />
+      <module name="spring-boot-service-api-spike" options="-parameters" />
+      <module name="spring-boot-service-impl-goods" options="-parameters" />
+      <module name="spring-boot-service-impl-mail" options="-parameters" />
+      <module name="spring-boot-service-impl-pay" options="-parameters" />
+      <module name="spring-boot-service-impl-spike" options="-parameters" />
+    </option>
+  </component>
+</project>

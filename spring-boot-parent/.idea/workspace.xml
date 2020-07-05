@@ -1,0 +1,427 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6ce135a8-0bbc-4b9b-8ea9-b066d45ef5af" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-basics/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-basics/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-basics/spring-boot-basics-springcloud-zuul/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-basics/spring-boot-basics-springcloud-zuul/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-common/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-common/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-common/spring-boot-common-core/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-common/spring-boot-common-core/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-common/spring-boot-common-core/src/main/java/com/lemon/core/exception/LmExceptionSeverity.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-common/spring-boot-common-core/src/main/java/com/lemon/core/exception/LmExceptionSeverity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-common/spring-boot-common-core/src/main/java/com/lemon/core/exception/LmRuntimeException.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-common/spring-boot-common-core/src/main/java/com/lemon/core/exception/LmRuntimeException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-common/spring-boot-common-core/src/main/java/com/lemon/core/util/ChineseNumToArabicNumUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-common/spring-boot-common-core/src/main/java/com/lemon/core/util/ChineseNumToArabicNumUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-pojo/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-pojo/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-pojo/spring-boot-goods-pojo/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-pojo/spring-boot-goods-pojo/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-service-api/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-service-api/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-service-api/spring-boot-service-api-goods/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-service-api/spring-boot-service-api-goods/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-service-api/spring-boot-service-api-goods/src/main/java/com/lemon/goods/service/GoodsService.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-service-api/spring-boot-service-api-goods/src/main/java/com/lemon/goods/service/GoodsService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-service-api/spring-boot-service-api-mail/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-service-api/spring-boot-service-api-mail/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-service-api/spring-boot-service-api-mail/src/main/java/com/lemon/mail/MailService.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-service-api/spring-boot-service-api-mail/src/main/java/com/lemon/mail/MailService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-service-api/spring-boot-service-api-spike/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-service-api/spring-boot-service-api-spike/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-service-api/spring-boot-service-api-spike/src/main/java/com/lemon/spike/SpikeService.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-service-api/spring-boot-service-api-spike/src/main/java/com/lemon/spike/SpikeService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-service-impl/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-service-impl/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-service-impl/spring-boot-service-impl-goods/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-service-impl/spring-boot-service-impl-goods/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-service-impl/spring-boot-service-impl-goods/src/main/java/com/lemon/MainApplicationGoods.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-service-impl/spring-boot-service-impl-goods/src/main/java/com/lemon/MainApplicationGoods.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-service-impl/spring-boot-service-impl-goods/src/main/java/com/lemon/goods/dao/Goods.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-service-impl/spring-boot-service-impl-goods/src/main/java/com/lemon/goods/dao/Goods.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-service-impl/spring-boot-service-impl-goods/src/main/java/com/lemon/goods/dao/Order.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-service-impl/spring-boot-service-impl-goods/src/main/java/com/lemon/goods/dao/Order.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-service-impl/spring-boot-service-impl-goods/src/main/java/com/lemon/goods/dao/OrderDetail.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-service-impl/spring-boot-service-impl-goods/src/main/java/com/lemon/goods/dao/OrderDetail.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-service-impl/spring-boot-service-impl-goods/src/main/java/com/lemon/goods/dao/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-service-impl/spring-boot-service-impl-goods/src/main/java/com/lemon/goods/dao/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-service-impl/spring-boot-service-impl-goods/src/main/java/com/lemon/goods/mapper/GoodsMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-service-impl/spring-boot-service-impl-goods/src/main/java/com/lemon/goods/mapper/GoodsMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-service-impl/spring-boot-service-impl-goods/src/main/java/com/lemon/goods/mapper/UserMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-service-impl/spring-boot-service-impl-goods/src/main/java/com/lemon/goods/mapper/UserMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-service-impl/spring-boot-service-impl-goods/src/main/java/com/lemon/goods/service/impl/GoodsServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-service-impl/spring-boot-service-impl-goods/src/main/java/com/lemon/goods/service/impl/GoodsServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-service-impl/spring-boot-service-impl-mail/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-service-impl/spring-boot-service-impl-mail/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-service-impl/spring-boot-service-impl-mail/src/main/java/com/lemon/MainApplicationMail.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-service-impl/spring-boot-service-impl-mail/src/main/java/com/lemon/MainApplicationMail.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-service-impl/spring-boot-service-impl-mail/src/main/java/com/lemon/controller/MailSendTestController.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-service-impl/spring-boot-service-impl-mail/src/main/java/com/lemon/controller/MailSendTestController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-service-impl/spring-boot-service-impl-mail/src/main/java/com/lemon/mail/service/impl/MailServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-service-impl/spring-boot-service-impl-mail/src/main/java/com/lemon/mail/service/impl/MailServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-service-impl/spring-boot-service-impl-mail/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-service-impl/spring-boot-service-impl-mail/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-service-impl/spring-boot-service-impl-spike/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-service-impl/spring-boot-service-impl-spike/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-service-impl/spring-boot-service-impl-spike/src/main/java/com/lemon/MainApplicationSpike.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-service-impl/spring-boot-service-impl-spike/src/main/java/com/lemon/MainApplicationSpike.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-service-impl/spring-boot-service-impl-spike/src/main/java/com/lemon/spike/service/impl/SpikeServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-service-impl/spring-boot-service-impl-spike/src/main/java/com/lemon/spike/service/impl/SpikeServiceImpl.java" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="241" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>127.0.0.1</find>
+      <find>newConcurrentMap</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>118.31.126.212</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="userSettingsFile" value="C:\workspace\project\git\spring-cloud-alibaba\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1eGFVqpyP6ITLN5FgGymDPI1Zgf" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.lemon.core.util" />
+      <recent name="com.lemon.spike.consumer" />
+      <recent name="com.lemon.spike.mq.config" />
+      <recent name="com.lemon.spike.producer" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Project\study\spring-cloud-alibaba\spring-boot-parent\spring-boot-service-impl\spring-boot-service-impl-mail\src\main\resources" />
+      <recent name="D:\Project\study\spring-cloud-alibaba\spring-boot-parent\spring-boot-service-impl\spring-boot-service-impl-goods\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.MainApplicationSpike">
+    <configuration name="ChineseNumToArabicNumUtil" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lemon.core.util.ChineseNumToArabicNumUtil" />
+      <module name="spring-boot-common-core" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lemon.core.util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainApplicationGoods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lemon.MainApplicationGoods" />
+      <module name="spring-boot-service-impl-goods" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lemon.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainApplicationMail" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lemon.MainApplicationMail" />
+      <module name="spring-boot-service-impl-mail" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lemon.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainApplicationZuul" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lemon.MainApplicationZuul" />
+      <module name="spring-boot-basics-springcloud-zuul" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lemon.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainApplicationSpike" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" singleton="false">
+      <module name="spring-boot-service-impl-spike" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lemon.MainApplicationSpike" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.MainApplicationZuul" />
+      <item itemvalue="Application.ChineseNumToArabicNumUtil" />
+      <item itemvalue="Application.MainApplicationGoods" />
+      <item itemvalue="Application.MainApplicationMail" />
+      <item itemvalue="Spring Boot.MainApplicationSpike" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MainApplicationMail" />
+        <item itemvalue="Application.MainApplicationGoods" />
+        <item itemvalue="Application.ChineseNumToArabicNumUtil" />
+        <item itemvalue="Application.MainApplicationZuul" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration" cleanupOnStartRun="true">
+    <configuration>C:\Users\Lemon\AppData\Roaming\Subversion</configuration>
+    <supportedVersion>125</supportedVersion>
+  </component>
+  <component name="SvnFileUrlMappingImpl">
+    <option name="myMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="C:\workspace\project\study\spring-cloud-alibaba\spring-boot-parent" />
+          <option name="myCopyRoot" value="C:\workspace\project\study\spring-cloud-alibaba\spring-boot-parent" />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
+    <option name="myMoreRealMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="C:\workspace\project\study\spring-cloud-alibaba\spring-boot-parent" />
+          <option name="myCopyRoot" value="C:\workspace\project\study\spring-cloud-alibaba\spring-boot-parent" />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6ce135a8-0bbc-4b9b-8ea9-b066d45ef5af" name="Default" comment="" />
+      <created>1588238186818</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588238186818</updated>
+      <workItem from="1588238189702" duration="880000" />
+      <workItem from="1588745620913" duration="2048000" />
+      <workItem from="1588750483140" duration="7605000" />
+      <workItem from="1588759857181" duration="53000" />
+      <workItem from="1588834690971" duration="222000" />
+      <workItem from="1588930367150" duration="34000" />
+      <workItem from="1589005247385" duration="342000" />
+      <workItem from="1589005724238" duration="2442000" />
+      <workItem from="1589012529192" duration="1524000" />
+      <workItem from="1589019192831" duration="634000" />
+      <workItem from="1589261188874" duration="914000" />
+      <workItem from="1590455506186" duration="1107000" />
+      <workItem from="1590457080682" duration="6848000" />
+      <workItem from="1590487300673" duration="7000" />
+      <workItem from="1590642566295" duration="6447000" />
+      <workItem from="1590656588833" duration="10891000" />
+      <workItem from="1590746024303" duration="954000" />
+      <workItem from="1591064636566" duration="1984000" />
+      <workItem from="1591777830149" duration="1441000" />
+      <workItem from="1592449571890" duration="2347000" />
+      <workItem from="1593605747613" duration="324000" />
+      <workItem from="1593606105091" duration="232000" />
+      <workItem from="1593940050365" duration="1808000" />
+      <workItem from="1593942042258" duration="10437000" />
+      <workItem from="1593952848839" duration="4775000" />
+    </task>
+    <task id="LOCAL-00001">
+      <created>1588239029299</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1588239029299</updated>
+    </task>
+    <task id="LOCAL-00002">
+      <created>1588759900900</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1588759900900</updated>
+    </task>
+    <task id="LOCAL-00003">
+      <created>1588834874283</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1588834874283</updated>
+    </task>
+    <task id="LOCAL-00004">
+      <created>1589008718117</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1589008718117</updated>
+    </task>
+    <task id="LOCAL-00005">
+      <created>1589013376834</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1589013376834</updated>
+    </task>
+    <task id="LOCAL-00006">
+      <created>1590456543082</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1590456543082</updated>
+    </task>
+    <task id="LOCAL-00007">
+      <created>1590456584402</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1590456584402</updated>
+    </task>
+    <task id="LOCAL-00008">
+      <created>1590472278772</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1590472278772</updated>
+    </task>
+    <task id="LOCAL-00009">
+      <created>1590472303869</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1590472303869</updated>
+    </task>
+    <task id="LOCAL-00010">
+      <created>1590649221288</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1590649221288</updated>
+    </task>
+    <task id="LOCAL-00011">
+      <created>1590660852164</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1590660852164</updated>
+    </task>
+    <task id="LOCAL-00012">
+      <created>1590718495802</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1590718495802</updated>
+    </task>
+    <task id="LOCAL-00013">
+      <created>1590718527852</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1590718527852</updated>
+    </task>
+    <task id="LOCAL-00014">
+      <created>1591068334201</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1591068334201</updated>
+    </task>
+    <task id="LOCAL-00015">
+      <created>1591778837257</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1591778837257</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LAST_COMMIT_MESSAGE" value="" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/spring-boot-service-impl/spring-boot-service-impl-mail/src/main/java/com/lemon/controller/MailSendTestController.java</url>
+          <line>57</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/spring_boot_parent$MainApplicationSpike.ic" NAME="MainApplicationSpike Coverage Results" MODIFIED="1593950592414" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

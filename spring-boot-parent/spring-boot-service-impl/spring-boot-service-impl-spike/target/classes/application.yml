@@ -1,0 +1,39 @@
+# 哨兵模式
+#redisson:
+#  master-name: mymaster
+#  password:
+#  sentinel-addresses: 10.47.91.83:26379,10.47.91.83:26380,10.47.91.83:26381
+
+redisson:
+  address: redis://192.168.40.11:6379
+  password:
+
+logging:
+  level:
+    org.springframework.web: INFO
+    com.github.binarywang.demo.wx.mp: DEBUG
+    me.chanjar.weixin: DEBUG
+
+server:
+  port: 8081
+
+
+
+spring:
+  application:
+    name: app-lemonspike
+  redis:
+    host: 192.168.40.11
+    # password: 123456
+    port: 6379
+    pool:
+      max-idle: 100
+      min-idle: 1
+      max-active: 1000
+      max-wait: -1
+  ###数据库相关连接
+  datasource:
+    driver-class-name: com.mysql.jdbc.Driver
+    password: 123456
+    url: jdbc:mysql://192.168.40.11:3306/lemon_seckill?characterEncoding=utf8
+    username: root
